@@ -1,0 +1,7 @@
+com\orchid\ssm\controller\SysLogController.class
+com\orchid\ssm\controller\OrderController.class
+com\orchid\ssm\controller\PermissionController.class
+com\orchid\ssm\controller\UserController.class
+com\orchid\ssm\controller\ProductController.class
+com\orchid\ssm\controller\LogAop.class
+com\orchid\ssm\controller\RoleController.class

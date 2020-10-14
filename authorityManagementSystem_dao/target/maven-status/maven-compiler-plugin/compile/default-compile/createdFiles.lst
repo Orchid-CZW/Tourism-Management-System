@@ -1,0 +1,8 @@
+com\orchid\ssm\dao\ISysLogDao.class
+com\orchid\ssm\dao\IProductDao.class
+com\orchid\ssm\dao\IRoleDao.class
+com\orchid\ssm\dao\IOrdersDao.class
+com\orchid\ssm\dao\IPermissionDao.class
+com\orchid\ssm\dao\ITravellerDao.class
+com\orchid\ssm\dao\IUserDao.class
+com\orchid\ssm\dao\IMemberDao.class

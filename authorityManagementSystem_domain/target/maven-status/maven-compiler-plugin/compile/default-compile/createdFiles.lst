@@ -1,0 +1,8 @@
+com\orchid\ssm\domain\Product.class
+com\orchid\ssm\domain\Role.class
+com\orchid\ssm\domain\Member.class
+com\orchid\ssm\domain\Permission.class
+com\orchid\ssm\domain\Traveller.class
+com\orchid\ssm\domain\Orders.class
+com\orchid\ssm\domain\UserInfo.class
+com\orchid\ssm\domain\Syslog.class
